@@ -1,0 +1,9 @@
+.svn
+bamtools
+obs
+*Test*
+tetrascan
+summarizer
+reindexBam
+profiler
+scratch/*

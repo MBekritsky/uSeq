@@ -1,0 +1,8 @@
+{
+bwa	=>	"/data/software/bwa/default/",
+uSeq	=>	"/mnt/wigclust4//home/bekritsk/tools/microsatellite/",
+uSeqPerllib	=>	"/mnt/wigclust4//home/bekritsk/tools/microsatellite/perllib/",
+config	=>	"/mnt/wigclust4//home/bekritsk/tools/microsatellite/config.txt",
+samtools	=>	"/data/software/samtools/default/",
+picard	=>	"/data/software/picard/picard-tools-1.92/",
+}

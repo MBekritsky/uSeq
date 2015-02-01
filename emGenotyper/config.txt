@@ -1,0 +1,3 @@
+src_dir	/mnt/wigclust4/home/bekritsk/tools/microsatellite/emGenotyper/src
+anno_dir	/mnt/wigclust4/home/bekritsk/genomes/hg19/hg19BedFiles
+cran_repo	http://lib.stat.cmu.edu/R/CRAN

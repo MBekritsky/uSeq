@@ -1,0 +1,120 @@
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:25.815.068
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.539.324
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.366.776
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.398.155
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.432.365
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.360.659
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.404.553
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.402.720
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.526.514
+Processing sequence reads from /home/bekritsk/TestFiles/million/million.bam
+Found a total of 124779 microsatellites
+In /home/bekritsk/TestFiles/million/million.bam
+	Processed 1000000 reads, 994484 submitted for detection
+	1034219 total bases trimmed from first mate-pair reads (2.00 bases per read)
+	969747 total bases trimmed from second mate-pair reads (1.00 bases per read)
+	5516 reads were too short after trimming
+Files with microsatellite information can be found at /home/bekritsk/TestFiles/million/million_1.ms.txt and /home/bekritsk/TestFiles/million/million_2.ms.txt
+Files with read headers can be found at /home/bekritsk/TestFiles/million/million_1.hdr.txt and /home/bekritsk/TestFiles/million/million_2.hdr.txt
+Files with modified reads can be found at /home/bekritsk/TestFiles/million/million_1.mod.ms.txt and /home/bekritsk/TestFiles/million/million_2.mod.ms.txt
+Files with counts can be found at /home/bekritsk/TestFiles/million/counts/million_1.scan.count and /home/bekritsk/TestFiles/million/counts/million_2.scan.count
+Tetrascan completed in 00:00:24.424.974
